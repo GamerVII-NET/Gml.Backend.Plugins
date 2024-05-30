@@ -1,3 +1,6 @@
 [submodule "Gml.Web.Api.Plugin.Metrics"]
 	path = Gml.Web.Api.Plugin.Metrics
 	url = https://github.com/Arsenii1109/Gml.Web.Api.Plugin.Metrics.git
+[submodule "Gml.Web.Api.Plugin.Servers"]
+	path = Gml.Web.Api.Plugin.Servers
+	url = https://github.com/GamerVII-NET/Gml.Web.Api.Plugin.Servers.git
